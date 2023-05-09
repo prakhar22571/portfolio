@@ -411,6 +411,7 @@ svg {
 }
 
 /*=============== SERVICES ===============*/
+
 .services__container{
   row-gap: 2rem;
   padding-block: 1rem;
@@ -815,7 +816,7 @@ svg {
   }
 
   .services__container{
-    grid-template-columns: repeat(3, 352px);
+    grid-template-columns: repeat(2, 352px);
     padding-block: 2.5rem 4rem;
   }
 
@@ -824,7 +825,7 @@ svg {
   }
 
   .projects__container{
-    grid-template-columns: repeat(3, 350px);
+    grid-template-columns: repeat(2, 350px);
     row-gap: 3rem;
     padding-block: 2.5rem 4rem;
   }
